@@ -9,22 +9,22 @@
       {
         "type": "message",
         "label": "滿食記",
-        "text": "動作 1"
+        "text": "滿食記"
       },
       {
         "type": "message",
         "label": "歐姆萊斯",
-        "text": "動作 2"
+        "text": "歐姆萊斯"
       },
       {
         "type": "message",
         "label": "自助餐",
-        "text": "動作 3"
+        "text": "自助餐"
       },
       {
         "type": "message",
         "label": "萊克堡",
-        "text": "動作 4"
+        "text": "萊克堡"
       }
     ]
   }
