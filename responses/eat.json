@@ -1,0 +1,31 @@
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "title": "要吃什麼?",
+    "text": "金額150元內",
+    "actions": [
+      {
+        "type": "message",
+        "label": "滿食記",
+        "text": "動作 1"
+      },
+      {
+        "type": "message",
+        "label": "歐姆萊斯",
+        "text": "動作 2"
+      },
+      {
+        "type": "message",
+        "label": "自助餐",
+        "text": "動作 3"
+      },
+      {
+        "type": "message",
+        "label": "萊克堡",
+        "text": "動作 4"
+      }
+    ]
+  }
+}
